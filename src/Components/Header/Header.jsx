@@ -13,7 +13,7 @@ const Header = () => {
     <header className="bg-white border-b-2 sticky top-0 z-50">
       <div className="bg-black text-white">
         <div className="container p-4 flex justify-between items-center max-md:flex-col max-md:text-center max-md:text-xs">
-          .
+          <span className="text-black">.</span>
           <p>
             Summer Sale For All Swim Suits And Free Express Delivery-OFF 50%!
             <strong className="underline ml-3 max-md:ml-0"> ShopNow</strong>
