@@ -1,0 +1,7 @@
+.swiper-icon .swiper-slide {
+    background-color: #e6e6e6;
+}
+.swiper-icon .swiper-slide-active {
+    background-color: red;
+    color: #FFF;
+}
